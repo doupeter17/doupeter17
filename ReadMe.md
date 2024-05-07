@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently focusing on Data Science in Swinburne University<br><br>🏆Notable Achievements:<br>•Scholarship of Excellence - 40% at Swinburne Vietnam<br>Best Performance Award in subject Object Oriented Programming<br>•3rd Place at DataStax Academic Hackathon (Akathon) Swinburne Vietnam, Semester Spring 2023 Github Repo<br>•Top 30 at Swinburne Vietnam Hackathon 2023
+I am currently focusing on Data Science in Swinburne University<br><br>🏆Notable Achievements:<br>•Scholarship of Excellence - 40% at Swinburne Vietnam<br>•Best Performance Award in subject Object Oriented Programming<br>•3rd Place at DataStax Academic Hackathon (Akathon) Swinburne Vietnam, Semester Spring 2023 Github Repo<br>•Top 30 at Swinburne Vietnam Hackathon 2023
 
 
 ## 🌐 Socials:
